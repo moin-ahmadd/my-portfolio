@@ -317,5 +317,9 @@ footer {
         width: 250px;
         height: 250px;
     }
-
+ .about-content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ }
 }
