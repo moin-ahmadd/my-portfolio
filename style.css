@@ -384,6 +384,9 @@ footer {
     .logo {
         order: 1;
     }
+    .logo h2 {
+       font-size: 22px;
+    }
 
     .theme-toggle {
         order: 2;
